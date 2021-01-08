@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1bCslnS2C8L0tHMKrD82x8mLcVK" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.QuickSortX">
+    <configuration name="BUMergeSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BUMergeSort" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BUMergeSort1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BUMergeSortX" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="1000000 343 3454" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BruteCollinearPoints" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BruteCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="kw1260.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FastCollinearPoints" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="mystery10089.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FourSum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="FourSum" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="100000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InsertionX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="InsertionX" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="tiny.txt" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="words3.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="rs1423.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Quick3way" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Quick3way" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="50000000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="QuickSortX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="QuickSortX" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="30000000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SortCompare" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SortCompare" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="10000000 10" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <configuration name="edu.princeton.cs.algs4.Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.princeton.cs.algs4.Test" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="10" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.InsertionX" />
+      <item itemvalue="Application.Point" />
+      <item itemvalue="Application.BruteCollinearPoints" />
+      <item itemvalue="Application.FastCollinearPoints" />
+      <item itemvalue="Application.BUMergeSort" />
+      <item itemvalue="Application.SortCompare" />
+      <item itemvalue="Application.BUMergeSort1" />
+      <item itemvalue="Application.edu.princeton.cs.algs4.Test" />
+      <item itemvalue="Application.FourSum" />
+      <item itemvalue="Application.QuickSortX" />
+      <item itemvalue="Application.Quick3way" />
+      <item itemvalue="Application.Test" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+</project>

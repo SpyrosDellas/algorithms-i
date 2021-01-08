@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectId" id="1boP9814RVTDoNZyJFpr6J07iMV" />
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.IDASolver">
+    <configuration name="Board" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle0.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ByteBoard" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ByteBoard" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="HeapSort" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="1000000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IDASolver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="IDASolver" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle50.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IndexMinPriorityQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="IndexMinPriorityQueue" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaxPriorityQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MaxPriorityQueue" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="100000" />
+      <option name="VM_PARAMETERS" value="-Xmx8G" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MinPriorityQueue" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="MinPriorityQueue" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="1000000" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Solver" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Solver" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle4x4-78.txt" />
+      <option name="VM_PARAMETERS" value="-Xmx13G" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SolverX" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="SolverX" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="puzzle4x4-50.txt" />
+      <option name="VM_PARAMETERS" value="-Xmx14G" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TaxiCab" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TaxiCab" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="366000 5" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="Algorithms, Part I" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.MaxPriorityQueue" />
+      <item itemvalue="Application.MinPriorityQueue" />
+      <item itemvalue="Application.HeapSort" />
+      <item itemvalue="Application.IndexMinPriorityQueue" />
+      <item itemvalue="Application.TaxiCab" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Board" />
+      <item itemvalue="Application.Solver" />
+      <item itemvalue="Application.ByteBoard" />
+      <item itemvalue="Application.SolverX" />
+      <item itemvalue="Application.IDASolver" />
+    </list>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+</project>
